@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="main_activity_name">Digital Systems Converter</string>
+
+    <string-array name = "base_string">
+        <item>DEC</item>
+        <item>BIN</item>
+        <item>OCT</item>
+        <item>HEX</item>
+    </string-array>
+
+    <string name="decimal">DEC</string>
+    <string name="binary">BIN</string>
+    <string name="octal">OCT</string>
+    <string name="hexadecimal">HEX</string>
+    <string name="result">Result</string>
+
+    <string name="decimal_input_error">Can't convert this number.
+        Please enter digits from 0-to 9 only.</string>
+    <string name="binary_input_error">Can't convert this number.
+        Please enter 0's and 1's digits only.</string>
+    <string name="octal_input_error">Can't convert this number.
+        Please enter digits from 0-to 7 only.</string>
+    <string name="hexa_input_error">Can't convert this number.
+        Please enter digits from 0-to 9 and from a-to f only.</string>
+    <string name="cannot_convert_number">Can't convert this number</string>
+</resources>
